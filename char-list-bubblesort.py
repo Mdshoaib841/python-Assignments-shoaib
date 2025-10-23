@@ -32,3 +32,18 @@ for i in range(n):
             arr[j], arr[j+1] = arr[j+1], arr[j]
 
 print("Sorted list:", arr)
+
+
+#FUNCTION
+
+def add(a,b):
+    return a+b
+
+def add_multiply(a,b):
+    print(add(a,b)*2)
+add_multiply(10,5)    
+
+
+def add_divide(a,b):
+    print(add(a,b)/2)
+add_divide(10,5)
