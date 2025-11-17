@@ -1,0 +1,14 @@
+--- VALID ROWS ---
+Total Valid Employees: 5
+
+Average Rating by Department:
+ Sales: 4.50
+ HR: 3.80
+Finance: 3.45
+Data Enginer: 5.00
+
+**********************************
+Top Performer:
+Employee Name : Shoaib
+Department: Data Enginer
+Rating :5.0

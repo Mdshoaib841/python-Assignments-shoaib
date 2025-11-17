@@ -1,0 +1,9 @@
+EmployeeID, EmployeeName, Department, Rating
+101, Ravi Kumar, Sales, 4.5
+102, Meena Sharma, HR, 3.8
+103, Arjun Patel,Finance, 4.9 
+bad-data, Missing, Wrong, data
+104, Priya Das, Sales, Five
+105,Shoaib,Data Enginer,5
+106,Salman,Finance,2.0
+107,abrar,Sales,9

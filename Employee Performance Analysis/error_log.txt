@@ -1,0 +1,3 @@
+Invalid row: "bad-data, Missing, Wrong, data" -> EmployeeID is not numeric
+Invalid row: "104, Priya Das, Sales, Five" -> Rating is not a valid float
+Invalid row: "107,abrar,Sales,9" -> Rating must be between 1.0 and 5.0
